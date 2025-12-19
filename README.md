@@ -30,6 +30,22 @@ Secret-Manito/
 ```
 
 ---
+### 🖥️ 메인 페이지
+<img src="https://github.com/user-attachments/assets/b378def1-f1b2-4a79-91c1-7550c55d9b71" width="100%" alt="Main Page">
+
+<br>
+
+### 🔍 상세 페이지 (기능별 화면)
+| 상세 01 | 상세 02 | 상세 03 |
+| :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/60b9d214-c805-405a-b1f9-1be63324c678" width="320"> | <img src="https://github.com/user-attachments/assets/e478791b-e893-42b6-9026-4a96d018750c" width="320"> | <img src="https://github.com/user-attachments/assets/7f2fa664-2682-40b8-9844-993b840a5055" width="320"> |
+
+<br>
+
+### 💟 마니또 전달
+<img src="https://github.com/user-attachments/assets/3d951d67-34f4-4cc8-8328-9656630cbbdc" width="100%" alt="Manitto Delivery">
+
+---
 
 ## 🚀 시작하기
 
